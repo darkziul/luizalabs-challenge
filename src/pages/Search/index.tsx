@@ -16,7 +16,7 @@ const PageSearch = (state:Result) => {
     return(
         <Styled.Container>
             <ContainerSearch/>
-            {(data && !state.error) && <ContainerResult/>}
+            {(data && !state.error && !state.loading) && <ContainerResult/>}
         </Styled.Container>
     );
 };

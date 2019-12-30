@@ -57,7 +57,8 @@ const ContainerSearch = (state:State) => {
             searchCep(cep.replace(charSep,''));
             setClickedButton(true);//evitar re-consulta
         }
-    };    
+    };
+    const handlerOnKeyEnter = (e:any) => e.keyCode===13&&!disabled && search();
 
     return(
         <Styled.Container>
@@ -70,6 +71,7 @@ const ContainerSearch = (state:State) => {
                         mask={mask} 
                         maskChar={null}
                         onChange={verify}
+                        onKeyDown={handlerOnKeyEnter}
                         value={cep}
                         placeholder='02051-000'
                     />
