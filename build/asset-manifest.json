@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/github.io/luizalabs-challenge/static/js/main.6bec8545.chunk.js",
+    "main.js.map": "/github.io/luizalabs-challenge/static/js/main.6bec8545.chunk.js.map",
+    "runtime-main.js": "/github.io/luizalabs-challenge/static/js/runtime-main.aa54780d.js",
+    "runtime-main.js.map": "/github.io/luizalabs-challenge/static/js/runtime-main.aa54780d.js.map",
+    "static/js/2.51c3f052.chunk.js": "/github.io/luizalabs-challenge/static/js/2.51c3f052.chunk.js",
+    "static/js/2.51c3f052.chunk.js.map": "/github.io/luizalabs-challenge/static/js/2.51c3f052.chunk.js.map",
+    "index.html": "/github.io/luizalabs-challenge/index.html",
+    "precache-manifest.399af090b23793f2295beedadca03166.js": "/github.io/luizalabs-challenge/precache-manifest.399af090b23793f2295beedadca03166.js",
+    "service-worker.js": "/github.io/luizalabs-challenge/service-worker.js",
+    "static/js/2.51c3f052.chunk.js.LICENSE": "/github.io/luizalabs-challenge/static/js/2.51c3f052.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa54780d.js",
+    "static/js/2.51c3f052.chunk.js",
+    "static/js/main.6bec8545.chunk.js"
+  ]
+}
