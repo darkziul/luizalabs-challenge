@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1384616d43016305bdc9e0212facbf81",
+    "revision": "7252b90833c6ff1d63f10b232daed5d8",
     "url": "/luizalabs-challenge/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/luizalabs-challenge/static/js/2.b40cebfd.chunk.js.LICENSE"
   },
   {
-    "revision": "5f614bd3f854c0282aaa",
-    "url": "/luizalabs-challenge/static/js/main.6bec8545.chunk.js"
+    "revision": "f59c71d4c83795fe0bef",
+    "url": "/luizalabs-challenge/static/js/main.69dda5a3.chunk.js"
   },
   {
     "revision": "ac2f377497e856cdacf5",
