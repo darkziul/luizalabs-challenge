@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/luizalabs-challenge/precache-manifest.4bce8a797638050f9023597e4a6c22af.js"
+  "/luizalabs-challenge/precache-manifest.9a22f4d53bb9087402adc9525b26187c.js"
 );
 
 self.addEventListener('message', (event) => {
